@@ -1,0 +1,4 @@
+R01,123,Admin: Has full access to all features and settings in the CRM system.
+R02,223,Manager: Can access and manage data for their team or department, but does not have access to all settings.
+R03,333,Sales Rep: Can view and manage their own leads, contacts, and opportunities.
+R04,516,Customer Support: Can access and manage customer support tickets and interactions.
